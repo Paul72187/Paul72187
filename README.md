@@ -1,10 +1,17 @@
-
-                        
 ## I'm Paul, welcome to my GitHub!
 
 ***Previous incarnations: Market researcher/communications consultant/carer***
 
 ***Now: Aspiring software developer***
+
+### Table of Contents
+**[Introduction](#introduction)**<br>
+**[Projects](#projects)**<br>
+**[Skills](#skills)**<br>
+**[Work Experience](#work-experience)**<br>
+**[Makers Academy](#makers-academy)**<br>
+**[Education and Training](#education-and-training)**<br>
+**[Hobbies](#hobbies)**<br>
 
 
 
@@ -91,7 +98,7 @@ Clients:
 - Metropolian Police
 - Department of Constitutional Affairs (DCA)
 
-## Education
+## Makers Academy
 
 **Makers Academy (July 2021 to November 2021)**
 
