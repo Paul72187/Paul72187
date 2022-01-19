@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## PAUL COOPER
+## I'm Paul, welcome to my GitHub!
 ## Ex-market researcher/communications consultant/carer, now aspiring software developer
 
 ## Introduction
