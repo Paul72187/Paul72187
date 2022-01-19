@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Paul, welcome to my GitHub!
-## Previous incarnations: Market researcher/communications consultant/carer
-## Now: Aspiring software developer
+##                                                              I'm Paul, welcome to my GitHub!
+##                                        Previous incarnations: Market researcher/communications consultant/carer
+##                                                              Now: Aspiring software developer
 
-Introduction | Projects | Skills | Work Experience | Education & Training | Hobbies
-
-Career changer turned software developer. Six years experience in grants management and completed Makers Academy coding bootcamp in November 2021. Eager to reroute back to my STEM background to put my experience into practice in software development.
+                                      Introduction | Projects | Skills | Work Experience | Education & Training | Hobbies
 
 
 ## Introduction
