@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## I'm Paul, welcome to my GitHub!
-## Ex-market researcher/communications consultant/carer, now aspiring software developer
+## Formerly a market researcher/communications consultant/carer
+## Now an aspiring software developer
 
 ## Introduction
 
