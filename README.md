@@ -1,7 +1,6 @@
 
                         
-
-***I'm Paul, welcome to my GitHub!***
+## I'm Paul, welcome to my GitHub!
 
 ***Previous incarnations: Market researcher/communications consultant/carer***
 
