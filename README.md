@@ -182,4 +182,4 @@ Dissertation - assessing post-communist Europe's triple transition (political/ec
 
 **Current Affairs** - Love debate/panel shows such as Question Time, Any Questions, Dateline London, Moral Maze to bring different perspectives on UK/global topical issues.
 
-**Music** - Huge fan of Pete Tong, Trevor Nelson and Gilles Peterson radio shows. I have the most ridiculous collection of cassettes/CD's/Vinyl/MP3s totalling well over 100,000 singles and albums, spanning all genres. I am a particular fan of House, Garage, Techno, R&B, Hip Hop, Latin, African and Jazz music. Favourite artists: Erykah Badu, Jill Scott, Anderson .Paak, Lauryn Hill, Alicia Keys, Robert Glasper, Ronny Jordan, Shaun Escoffery, Jamiroquai, Frankie Knuckles, Disclosure. I'm an amateur DJ, just getting used to my Traktor equipment - so still a lot to learn, but exciting nonetheless!
+**Music** - Huge fan of Pete Tong, Trevor Nelson and Gilles Peterson radio shows. I have the most ridiculous collection of cassettes/CD's/Vinyl/MP3s spanning all genres.
