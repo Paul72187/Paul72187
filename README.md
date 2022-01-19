@@ -1,4 +1,3 @@
-### Hi there, I'm Paul, welcome to my GitHub!
 
 <!--
 **Paul72187/Paul72187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there, I'm Paul, welcome to my GitHub!
 ## Previous incarnations: Market researcher/communications consultant/carer
 ## Now: Aspiring software developer
 
