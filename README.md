@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##                                                              I'm Paul, welcome to my GitHub!
-##                                        Previous incarnations: Market researcher/communications consultant/carer
-##                                                              Now: Aspiring software developer
+                                                                I'm Paul, welcome to my GitHub!
+                                          Previous incarnations: Market researcher/communications consultant/carer
+                                                                Now: Aspiring software developer
 
                                       Introduction | Projects | Skills | Work Experience | Education & Training | Hobbies
 
