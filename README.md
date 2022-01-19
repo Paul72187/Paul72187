@@ -4,8 +4,8 @@
                                           Previous incarnations: Market researcher/communications consultant/carer
                                                                 Now: Aspiring software developer
 
-                            Introduction | Projects | Skills | Work Experience | Makers Academy | Education & Training | Hobbies
-
+                          |  Introduction | Projects | Skills | Work Experience | Makers Academy | Education & Training | Hobbies
+                          |---------------|
 
 ## Introduction
 
