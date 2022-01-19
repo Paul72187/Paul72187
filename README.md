@@ -4,7 +4,7 @@
 
 ***Now: Aspiring software developer***
 
-### Table of Contents
+### Contents
 **[Introduction](#introduction)**<br>
 **[Projects](#projects)**<br>
 **[Skills](#skills)**<br>
