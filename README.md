@@ -7,7 +7,7 @@
 
 ***Now: Aspiring software developer***
 
-[***Introduction***]|[***Projects***]|[***Skills***]|[***Work Experience***]|[***Makers Academy***]|[***Education and Training***]|[***Hobbies***]
+|[Introduction]|***Projects***|***Skills***|***Work Experience***|[***Makers Academy***]|[***Education and Training***]|[***Hobbies***]
 
 
 ## Introduction
