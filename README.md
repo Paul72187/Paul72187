@@ -5,7 +5,7 @@
                                                                 Now: Aspiring software developer
 
                           |  Introduction | Projects | Skills | Work Experience | Makers Academy | Education & Training | Hobbies
-                          |---------------|
+                        
 
 ## Introduction
 
