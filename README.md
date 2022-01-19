@@ -1,11 +1,13 @@
 
-
-                                                                I'm Paul, welcome to my GitHub!
-                                          Previous incarnations: Market researcher/communications consultant/carer
-                                                                Now: Aspiring software developer
-
-                            [***Introduction | Projects | Skills | Work Experience | Makers Academy | Education & Training | [***Hobbies***]
                         
+
+***I'm Paul, welcome to my GitHub!
+
+***Previous incarnations: Market researcher/communications consultant/carer
+***Now: Aspiring software developer
+
+[***Introduction***]|[***Projects***]|[***Skills***]|[***Work Experience***]|[***Makers Academy***]|[***Education and Training***]|[***Hobbies***]
+
 
 ## Introduction
 
