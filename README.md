@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## Previous incarnations: Market researcher/communications consultant/carer
 ## Now: Aspiring software developer
 
+Projects | Skills | Work Experience | Education | Code Reviews | Contact
+
+Career changer turned software developer. Six years experience in grants management and completed Makers Academy coding bootcamp in November 2021. Eager to reroute back to my STEM background to put my experience into practice in software development.
 
 
 ## Introduction
@@ -153,6 +156,8 @@ Co-hosted my own cohort's weekly retro featuring:
 
 Represented my cohort at Makers' Staff Away Day giving feedback on our experiences in the course:
   - participated in a discussion with a broad range of Makers staff on aspects of the course that worked well, could be improved, as well as aspects of managing the entry criteria into the course and helping Makers graduates in the post-course job search.
+ 
+## Education and Training
 
 **London School of Economics (August 2013)**
 
