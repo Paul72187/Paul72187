@@ -182,4 +182,4 @@ Dissertation - assessing post-communist Europe's triple transition (political/ec
 
 **Current Affairs** - Love debate/panel shows such as Question Time, Any Questions, Dateline London, Moral Maze to bring different perspectives on UK/global topical issues.
 
-**Music** - Huge fan of Pete Tong, Trevor Nelson and Gilles Peterson radio shows. I have the most ridiculous collection of cassettes/CD's/Vinyl/MP3s spanning all genres.
+**Music** - I have the most ridiculous collection of cassettes/CDs/Vinyl/MP3s spanning all genres.
