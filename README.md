@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Paul, welcome to my GitHub!</h1>
 
-***Previous incarnations: Market researcher/communications consultant/carer***
+<h2 align="center">Previous incarnations: Market researcher/communications consultant/carer</h2>
 
-***Now: Aspiring software developer***
+<h2 align="center">Now: Aspiring software developer</h2>
 
 ### Contents
 **[Introduction](#introduction)**<br>
