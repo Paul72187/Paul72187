@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Previous incarnations: Market researcher/communications consultant/carer
 ## Now: Aspiring software developer
 
-Projects | Skills | Work Experience | Education | Code Reviews | Contact
+Introduction | Projects | Skills | Work Experience | Education & Training | Hobbies
 
 Career changer turned software developer. Six years experience in grants management and completed Makers Academy coding bootcamp in November 2021. Eager to reroute back to my STEM background to put my experience into practice in software development.
 
