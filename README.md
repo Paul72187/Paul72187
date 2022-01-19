@@ -1,4 +1,4 @@
-## I'm Paul, welcome to my GitHub!
+<h1 align="center">##I'm Paul, welcome to my GitHub!</h1>
 
 ***Previous incarnations: Market researcher/communications consultant/carer***
 
