@@ -26,7 +26,7 @@ I have had a significant career break to care for my father, which has given me 
 
 | Name                         | Description       | Tech/tools        | GitHub Link      |
 | ---------------------------- | ----------------- | ----------------- |------------------|
-| **Final Makers Group Project - Kusari**            | A website that allows users to track performance of their crypto coin wallet and monitor crypto market trends to inform future investment decisions. | React, Python, JavaScript, CSS, PostgreSQL | https://github.com/EMDevelop/Kusari
+| **Final Makers Group Project - Kusari**            | A website that allows users to track performance of their crypto coin wallet and monitor crypto market trends to inform future investment decisions. | React, Python, JavaScript, CSS, PostgreSQL | 
 | **Bank Tech Test** | A webapp that allows users to create a bank account, make deposits and make withdrawals. | HTML, Ruby              | https://github.com/Paul72187/Bank_Tech_Test
 | **Makers Group Project - Anti-Social Media Inc. (Acebook)** | A website clone of Facebook, allowing users to sign up, post a message, like and comment on a post. | Ruby On Rails HTML, JavaScript, CSS, Heroku | https://github.com/Paul72187/Acebook
 | **Takeaway** | A program that allows users to view and order takeaway dishes. Additionally, users can compare prices for takeaway dishes and can receive a text message to reassure them that their takeaway order is on the way! | Ruby | https://github.com/Paul72187/takeaway-challenge
