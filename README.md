@@ -7,13 +7,6 @@
 ### Contents
 **[Introduction](#introduction)**<br>
 **[Projects](#projects)**<br>
-**[Skills](#skills)**<br>
-**[Work Experience](#work-experience)**<br>
-**[Makers Academy](#makers-academy)**<br>
-**[Education and Training](#education-and-training)**<br>
-**[Hobbies](#hobbies)**<br>
-
-
 
 
 ## Introduction
