@@ -9,6 +9,8 @@
 **[Projects](#projects)**<br>
 
 
+
+
 ## Introduction
 
 Formerly in research, communications and healthcare, I have always sought to develop and learn new skills. My command of research and communications was used to drive new business ideas and increase revenue streams for established companies in the UK and across Europe. My work became increasingly data-driven, using VBA and SPSS, which encouraged me to take the leap into coding and software development, enticed by the opportunity of using these skills to assist in developing new business ideas and/or introducing change and innovation within existing businesses.
