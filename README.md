@@ -22,6 +22,9 @@ I have had a significant career break to care for my father, which has given me 
 | Name                         | Description       | Tech/tools        | GitHub Link      |
 | ---------------------------- | ----------------- | ----------------- |------------------|
 | **Quizzical** | A website that allows users to put their general knowledge to the test. | JavaScript, CSS, HTML | https://github.com/Paul72187/Quizzical
+| **Calculator** | A basic calculator app that allows users to carry out simple arithmetic functions | JavaScript, CSS, HTML | https://github.com/Paul72187/Calculator
+| **Music Player** | An app that allows users to play their favourite MP3s as well as featuring artwork | JavaScript, CSS, HTML | https://github.com/Paul72187/MusicPlayer
+| **Currency Converter** | An app that allows users to convert one currecny into any from a list of 32 other currencies using the Franfurter API for the latest FX data | JavaScript, Frankfurter API, CSS, HTML | https://github.com/Paul72187/CurrencyConverter
 | **Hangman** | A clone of Hangman, guessing a series of words, selected at random | Python | https://github.com/Paul72187/Hangman
 | **Final Makers Group Project - Kusari**            | A website that allows users to track performance of their crypto coin wallet and monitor crypto market trends to inform future investment decisions. | React, Python, JavaScript, CSS, PostgreSQL | https://github.com/EMDevelop/Kusari
 | **Bank Tech Test** | A webapp that allows users to create a bank account, make deposits and make withdrawals. | HTML, Ruby              | https://github.com/Paul72187/Bank_Tech_Test
