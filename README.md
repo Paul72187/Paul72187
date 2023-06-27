@@ -17,6 +17,9 @@ Formerly in research, communications and healthcare, I have always sought to dev
 
 I have had a significant career break to care for my father, which has given me time for reflection and a renewed perspective on life. Whilst I enjoyed my previous career, the emphasis was very much on reporting and telling a compelling story of existing client challenges and the broader political, economic and social context in which these challenges sit. Having been introduced to coding through quantitative analysis, I have become increasingly excited by the prospect of creating something innovative from scratch which will potentially give clients a differential advantage over their competitors. The idea of being given a more experimental licence to proactively instigate change and progression within an organisation through the use of computer programming is particularly appealing. 
 
+## Deployed Project
+Quizzical: Please visit this website and play the quiz! - https://quizzical23.netlify.app/
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        | GitHub Link      |
