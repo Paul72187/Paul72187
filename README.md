@@ -6,6 +6,7 @@
 
 ### Contents
 **[Introduction](#introduction)**<br>
+**[Deployed Project](#deployed-project)**<br>
 **[Projects](#projects)**<br>
 
 
